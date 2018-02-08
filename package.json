@@ -1,0 +1,19 @@
+{
+  "name": "mintscraper",
+  "version": "1.0.0",
+  "description": "Scrape Mint data and insert into Google Sheets",
+  "author": "Tevan Carrell",
+  "license": "ISC",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "dateformat": "^3.0.2",
+    "puppeteer": "^1.0.0"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tevanc14/MintScraper.git"
+  }
+}
